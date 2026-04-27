@@ -16,9 +16,9 @@ In this project, we analyzed COMP110 students interest in adding a livestreamed 
 
 The following graphs provide a visualiztiion of student responses. 
 
-<img src="imgs/histogram.png" width="500"/>
-<img src="imgs/scatterplot.png" width="500"/>
-<img src="imgs/boxplot.png" width="500"/>
+<img src="https://marheav.github.io/marheav.github.io-ex09_website/static/imgs/histogram.png" alt = "Graph one" width="500"/>
+<img src="https://marheav.github.io/marheav.github.io-ex09_website/static/imgs/scatterplot.png" alt = "graph two" width="500"/>
+<img src="https://marheav.github.io/marheav.github.io-ex09_website/static/imgs/boxplot.png" alt = "graph three" width="500"/>
 
 ## Analysis 
 
