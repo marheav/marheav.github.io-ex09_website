@@ -6,7 +6,7 @@ layout: default
 # EX09 Website and Analysis
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<ex09_website>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="https://marheav.github.io/marheav.github.io-ex09_website/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Summary
 
@@ -16,11 +16,15 @@ In this project, we analyzed COMP110 students interest in adding a livestreamed 
 
 The following graphs provide a visualiztiion of student responses. 
 
+<img src="imgs/histogram.png" width="500"/>
+<img src="imgs/scatterplot.png" width="500"/>
+<img src="imgs/boxplot.png" width="500"/>
+
 ## Analysis 
 
 The histogram conveys that most students have a high interest in livestreamed lectures with the most responses towards 6 and 7. The results emphasize a strong interest and demand for recorded lectures among COMP110 students. 
 
-The bar graph supports the same conclusion, having a negative skew and a concentration of responses around 6 and 7 as well. The data reinforces the interest that COMP110 students have in recorded lectures that can be accessed after class. 
+The second graph supports the same conclusion, having a negative skew and a concentration of responses around 6 and 7 as well. The data reinforces the interest that COMP110 students have in recorded lectures that can be accessed after class. 
 
 The boxplot once again supports the same conclusion with most means being on the higher end, mostly at 5 and 6 on a scale from 1 to 7. All of the graphs support the idea of implementing recorded lectures as COMP110 students find them effective. 
 
